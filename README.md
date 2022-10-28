@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebarist
 - 👀 I’m interested in C++, C#, good code.
-- 🌱 I’m currently learning a lot of training!
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on tools, features, everything.
 - 📫 How to reach me: On teams
 
